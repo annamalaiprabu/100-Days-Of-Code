@@ -8,6 +8,7 @@
 - Today, I logged in <strong>1.5 hours</strong> 
 - I started learning DSA and begun with solving basic maths problems starting from the concept of digits and solving few problems on that to beginning with how to reverse the digits of a number 
 - One feedback I have for myself is to turn on the timer on the practice platforms to strengthen my ability to perform under stress and solve problems faster
+- I must revise again on Day 3, Day 4, Day 9, Day 23, Day 65
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/blob/master/Learn%20the%20Basics/Know%20Basic%20Maths/basicmath.cpp">here</a>
 - and, thanks for being a part of my journey ❤️
 
@@ -15,6 +16,7 @@
 - Today, I logged in <strong>2.5 hours</strong>
 - I learned to print a reversed number where the trailing zeroes where automatically rejected, checked whether a number was a palindrome or not, checked for an Armstrong number and printed all the divisors of a number.
 - Along with that today was my first time I solved a LeetCode Problem 😊
+- I must revise again on Day 3, Day 4, Day 9, Day 23, Day 65
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/e28848768c7419cdc7600281c8fc99bb1200c204">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
@@ -22,7 +24,10 @@
 - Today, I logged in <strong>1.5 hours</strong>
 - I revised Day 1 and 2 's concepts and learnt to find sum of all divisors and learnt to check if a numberisPrime, also got a brief idea about GCD
 - In addition to that, I participated in today's CodeChef Starters 79 Contest for <em>2.25 hours</em> and solved 4 problems.
+- I must revise again on Day 4, Day 5, Day 10, Day 24, Day 66
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/fc45c3f9c62ba06f046e213fdf0b5e1a3aedcebe">here</a>
 - and as always, thanks for being a part of my journey ❤️
+
+
 
 
