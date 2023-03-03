@@ -35,5 +35,12 @@
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/818903698f99c56c3f99cf126ec02b4cd56ade45">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
+## Day 5 / 03-03-2023
+- Today, I logged in <strong>1.88 hours</strong>
+- I revised Day 3 & 4's concepts and begun understanding recursion, learnt about stack spaces & recursion trees
+- I must revise again on Day 6, Day 7, Day 12, Day 26, Day 68
+- You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/362ef7f95391611c190446c79299203e67113dc0">here</a>
+- and as always, thanks for being a part of my journey ❤️
+
 
 
