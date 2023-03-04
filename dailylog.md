@@ -36,10 +36,17 @@
 - and as always, thanks for being a part of my journey ❤️
 
 ## Day 5 / 03-03-2023
-- Today, I logged in <strong>1.88 hours</strong>
+- Today, I logged in <strong>1.5 hours</strong>
 - I revised Day 3 & 4's concepts and begun understanding recursion, learnt about stack spaces & recursion trees
 - I must revise again on Day 6, Day 7, Day 12, Day 26, Day 68
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/362ef7f95391611c190446c79299203e67113dc0">here</a>
+- and as always, thanks for being a part of my journey ❤️
+
+## Day 6 / 26-02-2023
+- Today, I logged in <strong>1.5 hours</strong>
+- I revised Day 4 & 5's concepts and used recursion for some basic problems and then got introduced to backtracking & how it works
+- I must revise again on Day 7, Day 8, Day 13, Day 27, Day 69
+- You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/84a6984f5df3a087f4468b28739f53556e11793d">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
 
