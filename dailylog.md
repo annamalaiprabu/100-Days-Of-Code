@@ -57,6 +57,14 @@
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/b5e57ba52328d9662636b48076108555f231fa30">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
+## Day 8 / 06-03-2023
+- Today, I logged in <strong>1.5 hours</strong>
+- I revised Day 1, 6 & 7's concepts and learnt the Functional Way of Recursion and solved a few problems using this way.
+- I must revise again on Day 9 , Day 10 , Day 15 , Day 29 , Day 71
+- You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/b66d9b8cf39e3654d7263eafca568988dc62e0ad">here</a>
+- and as always, thanks for being a part of my journey ❤️
+
+
 
 
 
