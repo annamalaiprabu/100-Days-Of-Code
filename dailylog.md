@@ -64,6 +64,13 @@
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/b66d9b8cf39e3654d7263eafca568988dc62e0ad">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
+## Day 9 / 07-03-2023
+- Today, I logged in <strong>2 hours</strong>
+- I revised Day 2, 7 & 8's concepts, learnt how to reverse an array using recursion through two pointer and with a single pointer and how to check if a string is a palindrome or not
+- I must revise again on Day 10 , Day 11 , Day 16 , Day 30 , Day 72
+- You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/f02d396da3c00f0e95c363dfa646b7b4bedd52b0">here</a>
+- and as always, thanks for being a part of my journey ❤️
+
 
 
 
