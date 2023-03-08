@@ -73,6 +73,8 @@
 
 ## Day X1 / 08-03-2023
 - Today I didn't study because I was caught up with an issue with someone who is very dear to me and had to immediately change plans to be with them at this tough time.
+- Day X_ are days when I haven't learnt during this challenge for valid reasons
+- Why Day X1 instead of Day X you ask, as I have come to terms of that I might have to take even more days off in the future during the challenge as due to unpredictable reasons as today in the future will do occur but it is upto my conscience to decide & identity truly, which are the days I really need to take off and which days are the days when I am just feeling lethargic and act accordingly.
 - I will make up for this by studying twice of what I generally study daily and also do an extra day after the 100th day
 - and as always, thanks for being a part of my journey ❤️
 
