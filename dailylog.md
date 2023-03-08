@@ -71,6 +71,10 @@
 - You can see my today's progress <a href="https://github.com/annamalaiprabu/DSA/commit/f02d396da3c00f0e95c363dfa646b7b4bedd52b0">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
+## Day X1 / 08-03-2023
+- Today I didn't study because I was caught up with an issue with someone who is very dear to me and had to immediately change plans to be with them at this tough time.
+- I will make up for this by studying twice of what I generally study daily and also do an extra day after the 100th day
+- and as always, thanks for being a part of my journey ❤️
 
 
 
