@@ -79,10 +79,13 @@
 - and as always, thanks for being a part of my journey ❤️
 
 ## Day 10 / 09-03-2023
-- Today, I logged in <strong>1 hour</strong> learning DSA and spent <em> 1 hour </em> solving 4 problems from Starters 80 CodeChef CP Contest
+- Today, I logged in <strong>1 hour</strong> learning DSA 
+- I revised Day 3, 8 & 9's concepts and spent <em> 1 hour </em> solving 4 problems from Starters 80 CodeChef CP Contest
 - I thought of doubling the time I missed out yesterday but couldn't do it and I need to be more realistic now
 - So I've decided that if I do skip a day in between due to some unforeseen reason, I'll not do the double day part the next day but still extend my 100DaysofCode Challenge by a day towards the end.
-- - and as always, thanks for being a part of my journey ❤️
+- I must revise again on Day 11 , Day 12 , Day 17 , Day 31 , Day 73 
+- You can see my today's progress <a href="">here</a>
+- and as always, thanks for being a part of my journey ❤️
 
 
 
