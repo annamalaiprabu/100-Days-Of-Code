@@ -92,5 +92,10 @@
 - You can see my today's progress <a href="https://www.stopstalk.com/user/profile/toughcookie_21">here</a>
 - and as always, thanks for being a part of my journey ❤️
 
-
+## Day 12 / 11-03-2023
+- Today, I didn't code at all
+- I am running a fever today and didn't account for that earlier and apart from this a whole lot other things are going wrong for me.
+- I need to identify where am I failing and what are my setbacks and I believe this process of introspection takes some time
+- I promise you that I will surely comeback stronger after this period.
+- and as always, thanks for being a part of my journey ❤️
 
